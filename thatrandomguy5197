@@ -1,0 +1,4 @@
+[11:36:50] [main/INFO]: ModLauncher running: args [--username, Joma950, --version, neoforge-20.4.235, --gameDir, C:\Users\José\AppData\Roaming\.minecraft, --assetsDir, C:\Users\José\AppData\Roaming\.minecraft\assets, --assetIndex, 12, --uuid, cf39781654fa492991c9c689df18ffa8, --accessToken, ????????, --clientId, MGJjNWRkNGItZjNhZi00YThkLWE4ODEtYjZiNzgzYTY3NWUx, --xuid, 2535422388545055, --userType, msa, --versionType, release, --quickPlayPath, C:\Users\José\AppData\Roaming\.minecraft\quickPlay\java\1717090607227.json, --fml.neoForgeVersion, 20.4.235, --fml.fmlVersion, 2.0.17, --fml.mcVersion, 1.20.4, --fml.neoFormVersion, 20231207.154220, --launchTarget, forgeclient]
+[11:36:50] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[11:36:50] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[11:36:50] [main/INFO]: Trying GL version 4.6
